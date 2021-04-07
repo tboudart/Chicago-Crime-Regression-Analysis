@@ -8,4 +8,4 @@ The Chicago Park District Event Permit data came from the Chicago Data Portal at
 The weather data was from the Midwestern Regional Climate Center found athttps://mrcc.illinois.edu/
 The unemployment data is from the United States Bureau of Labor Statistics at https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm
 
-Don't hestitate to email me at tlboudart@gmail.com if you have any comments or questions.
+Don't hestitate to email me at tlboudart@gmail.com if you have any comments, questions, or suggestions.
