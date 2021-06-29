@@ -5,3 +5,5 @@ The Crime data came from Kaggle at https://www.kaggle.com/chicago/chicago-crime/
 The Chicago Park District Event Permit data came from the Chicago Data Portal at https://data.cityofchicago.org/Events/Chicago-Park-District-Event-Permits/pk66-w54g
 The weather data was from the Midwestern Regional Climate Center found athttps://mrcc.illinois.edu/
 The unemployment data is from the United States Bureau of Labor Statistics at https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm
+
+The following libraries were used: car (3.0.10), dplyr (1.0.2), magrittr (2.0.1), MASS (7.3.53), tidyr (1.1.2), writexl (1.3.1), and DAAG (1.24)
